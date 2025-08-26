@@ -25,7 +25,7 @@ export default function Home() {
             <div className="col-lg-6 col-sm-6 col-md-8 info-right">
               <p style={{ fontFamily: "Courier Prime" }}> {text}</p>
               <p className="h1 animate-fade-slide">
-                I'm <span> Ronald Rupiya</span>
+                I'm <span> Ngonidzashe Rupiya</span>
               </p>
               <p
                 className="h2 fw-bold animate-fade-slide"
