@@ -105,7 +105,7 @@ export default function Contact() {
                     />
                   ))}
                 </div>
-                <img src="src/paper-plane.svg" alt="paper-plane-svg" />
+                <img src="/images/paper-plane.svg" alt="paper-plane-svg" />
               </div>
             </div>
           </form>

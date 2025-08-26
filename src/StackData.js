@@ -47,7 +47,7 @@ const stackData = [
         iconName: "SASS",
       },
       {
-        src: "src/gsap.png",
+        src: "/images/gsap.png",
         alt: "Gsap icon",
         iconName: "GSAP",
       },
