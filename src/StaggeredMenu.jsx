@@ -330,9 +330,11 @@ export const StaggeredMenu = ({
     openRef.current = target;
     setOpen(target);
     if (target) {
+      document.body.classList.add("no-scroll");
       onMenuOpen?.();
       playOpen();
     } else {
+      document.body.classList.remove("no-scroll");
       onMenuClose?.();
       playClose();
     }
