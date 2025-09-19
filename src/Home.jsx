@@ -49,9 +49,9 @@ export default function Home() {
                 />
               </p>
               <DecryptedText
-                text="I'm a self motivated front-end developer, programmer and 
-                aspiring Full-stack developer. I am an eager individual ready to
-                work and collaborate with great mind"
+                text="I'm a self motivated developer, programmer and
+                aspiring Full-stack developer in the computer engireeing department at the University of Zimbabwe. I am an eager individual ready to
+                work and collaborate with great minds"
                 animateOn="view"
                 revealDirection="start"
                 className="description"
@@ -66,7 +66,7 @@ export default function Home() {
                   Contact<i class="bi bi-arrow-up-right-circle-fill"></i>
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1O0QpNeymWjaVZ2mUBGh4P49MrKKiAQWx/view?usp=drive_link"
+                  href="https://drive.google.com"
                   target="_blank"
                   className="btn btn-download p-3 my-3 mx-lg-2"
                 >

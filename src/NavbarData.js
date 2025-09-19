@@ -1,7 +1,11 @@
 export const menuItems = [
   { label: "Home", ariaLabel: "Go to home page", link: "#" },
   { label: "About", ariaLabel: "Learn about us", link: "#about" },
-  { label: "Projects", ariaLabel: "View our services", link: "#" },
+  {
+    label: "Projects",
+    ariaLabel: "View our services",
+    link: "src/unavailable.txt",
+  },
   { label: "Contact", ariaLabel: "Get in touch", link: "#contact" },
 ];
 
