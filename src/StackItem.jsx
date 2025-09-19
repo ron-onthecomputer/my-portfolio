@@ -5,7 +5,7 @@ export default function StackItem({ number, name, text, icons }) {
         <div className="row stack-container">
           {" "}
           <div className={name}>
-            <p className="h2 fw-light">
+            <p className="h2">
               {number}
               <br />
               {text}

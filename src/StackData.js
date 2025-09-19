@@ -51,6 +51,11 @@ const stackData = [
         alt: "Gsap icon",
         iconName: "GSAP",
       },
+      {
+        src: "https://img.icons8.com/color/96/tailwind_css.png",
+        alt: "Tailwind icon",
+        iconName: "Tailwind",
+      },
     ],
   },
   {
@@ -77,6 +82,21 @@ const stackData = [
         src: "https://img.icons8.com/fluency/96/vite.png",
         alt: "Vite Icon",
         iconName: "Vite",
+      },
+      {
+        src: "https://img.icons8.com/color/96/cursor-ai.png",
+        alt: "Cursor icon",
+        iconName: "Cursor",
+      },
+      {
+        src: "https://img.icons8.com/color/96/intellij-idea.png",
+        alt: "IntelliJ icon",
+        iconName: "IntelliJ",
+      },
+      {
+        src: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-npm-a-package-manager-for-the-javascript-programming-language-logo-color-tal-revivo.png",
+        alt: "npm icon",
+        iconName: "npm",
       },
     ],
   },

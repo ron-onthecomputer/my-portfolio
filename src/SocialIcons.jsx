@@ -16,7 +16,7 @@ export const SocialIconsList = [
     className: "bi-github",
   },
   {
-    link: "https://www.linkedin.com/in/ronald-rupiya-2b1921372/",
+    link: "https://www.linkedin.com/in/ngonidzashe-rupiya-2b1921372/",
     className: "bi-linkedin",
   },
   {
